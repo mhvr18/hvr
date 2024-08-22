@@ -1,1 +1,3 @@
 print("Hi BEC Bapatla")
+a = 10
+print(a)
